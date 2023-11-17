@@ -3,8 +3,8 @@
 <package format="3">
   <name>my_amr</name>
   <version>0.0.0</version>
-  <description>An Autonomous Mobile Robot</description>
-  <maintainer email="kennybello.kb@gmail.com@email.com">kehinde bello</maintainer>
+  <description>TODO: Package description</description>
+  <maintainer email="my_email@email.com">MY NAME</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

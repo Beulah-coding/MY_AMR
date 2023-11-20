@@ -1,8 +1,6 @@
 ## AUTONOMOUS MOBILE ROBOT
 
-
-![image](https://github.com/Beulah-coding/my_amr/assets/73297822/3d52ea5c-c874-4c27-bb3a-66b47355712a)
-
+<img src="https://github.com/Beulah-coding/my_amr/assets/73297822/ea8915ab-79ee-4f20-bd5c-9c22040d84b2" width="00" height="100">
 
 **Tools**
 1. ROS
